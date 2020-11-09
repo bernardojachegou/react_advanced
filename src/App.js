@@ -1,8 +1,8 @@
-import './App.css';
+import Counter from './redux_class/components/Counter';
 
 function App() {
   return (
-    <h1>Teste</h1>
+    <Counter />
   );
 }
 
