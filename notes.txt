@@ -1,0 +1,19 @@
+=> rest API com fetch().then().then();
+=> Importância do Axios (conexão com API)
+
+-instalação
+-Ex: axios.get(url).then(data => { alert()}).catch(error => {alert()});
+Immutable.js using method (Record) const x = new SomeRecord({foo: 'bar'});
+
+=> Redux com rest:
+Aprendendo sobre testes:
+Chai/Mocha/Jest <- Lib para TDD e BDD
+
+=> BDD (Jest)
+-> sintaxe Gherkin
+1. Jest Cucumber < npm install --dev jest-cucumber
+2. Instalar extensão para arquivos do tipo .feature; (VSCode)
+
+Chrome Dev-tools:
+Auditis -> Relatory
+
